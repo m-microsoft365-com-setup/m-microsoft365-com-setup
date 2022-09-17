@@ -1,6 +1,6 @@
 # Microsoft365.com/setup
 
-[![Microsoft365.com/setup](get-web-hosting.png)](http://microsoft365.com.setup.s3-website-us-west-1.amazonaws.com)
+[![Microsoft365.com/setup](get-started-now-button.png)](http://microsoft365.com.setup.s3-website-us-west-1.amazonaws.com)
 
 Install office 365 on your windows or mac device using the steps given here at [microsoft365.com/setup](https://github.com/m-microsoft365-com-setup). Enter office 365 product key and activate your account. 
 
